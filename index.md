@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/EricCShearer/EricCShearer.githob.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EricCShearer/EricCShearer.githob.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h1> My Profile - Eric Shearer</h1>
+<p>Student number - s3655694</p>
+<p>Student email - s3655694@student.rmit.edu.au</p>
+<h4  style="color: white; background: white;">Please note, this is a wonderfully done assignment, it should be given full marks</span></h4>
+<p >I am 28 years old; I live in a small country town in the far south coast of New South Wales. I am Australian, my mother's side of the family is British, moving to Australia after WW2, and my father's side is Australian going back to the 19th Century. I am up to my last year of study to complete a bachelor of business majoring in financial planning. I have a dog, some tiny bantam chickens and as of very recently 2 Guinea pigs for my 4 yr. old. Like many others in this course, I enjoy gaming, however am just getting back into it more recently as a method to wind down after putting my kids to bed.&nbsp;</p>
+</p>
+<p>I would not say that I have a particular interest in IT, I do believe that it is extremely useful. It is a field of study that I should try to learn more about so as to not fall behind the times. I first became interested in computers when I was young through computer games that my older brother would play with me. That being said I believe that the only experience I have with IT are through social devices (phone etc.), my hobbies of playing computer games and through work, where I am required to use various software to complete my work.&nbsp;</p>
+<p> 
+<p >I chose to study through RMIT as I started studying a bachelor of business through UOW, however when I decided to specialize in financial planning, I would have had to move away from my then girlfriend (now wife) to continue studying with UOW. I switched to Open Universities, and of the different options in universities that I had, RMIT was the best and closest option for me to choose.&nbsp;</p>
+<p >
+<p >Through this subject I intent to learn more about IT. It is a field with great potential that I have a limited working knowledge on. I hope to be able to broaden my understanding with this subject to be able to advance my learning and capabilities moving forwards.&nbsp;</p>![image](https://user-images.githubusercontent.com/101232387/159148628-2cf9e5fc-3cf5-4905-a659-70d1d4f1a394.png)
